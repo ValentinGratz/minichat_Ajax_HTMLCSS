@@ -1,16 +1,17 @@
 body{
-
+    background-color: black;
+    color: white;
 }
 table {
     border-width:1px;
     border-style:solid;
-    border-color:black;
+    border-color:white;
 
 }
 div {
     border-width:1px;
     border-style:solid;
-    border-color:black;
+    border-color:white;
 }
 
 body, html {
