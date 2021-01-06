@@ -1,17 +1,6 @@
 body{
-    background-color: black;
+    background-color: #2C2F33;
     color: white;
-}
-table {
-    border-width:1px;
-    border-style:solid;
-    border-color:white;
-
-}
-div {
-    border-width:1px;
-    border-style:solid;
-    border-color:white;
 }
 
 body, html {
