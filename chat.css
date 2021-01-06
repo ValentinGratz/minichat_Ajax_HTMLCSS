@@ -5,11 +5,18 @@ table {
     border-width:1px;
     border-style:solid;
     border-color:black;
-    width:100%;
+
 }
-td {
+div {
     border-width:1px;
     border-style:solid;
     border-color:black;
-    width:20%;
+}
+
+body, html {
+    overflow-x :hidden ;
+}
+
+.param{
+    text-align: center;
 }
